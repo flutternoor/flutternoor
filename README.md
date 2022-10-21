@@ -7,10 +7,10 @@ I am a Full Stack Flutter Developer <img src="https://media.giphy.com/media/WUlp
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Flutter+Developer+with+1%2B+Years+Experience;Passionate+about+Making+Mobile+Applications;Freelnancer;Open+sourse+contributer)](https://git.io/typing-svg)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naseerx&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=flutternoor&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
 <a align="center">
- <img alt="GitHub followers" src="https://img.shields.io/github/followers/naseerx?label=Github%20followers&style=for-the-badge" >
+ <img alt="GitHub followers" src="https://img.shields.io/github/followers/flutternoor?label=Github%20followers&style=for-the-badge" >
   </a> 
 
 ### How to reach me: 
@@ -50,7 +50,7 @@ I am a Full Stack Flutter Developer <img src="https://media.giphy.com/media/WUlp
 
 
  <div align=center>
- <img src="https://github-readme-stats.vercel.app/api?username=naseerx&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
+ <img src="https://github-readme-stats.vercel.app/api?username=flutternoor&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
  </div>
 
 
@@ -59,25 +59,25 @@ I am a Full Stack Flutter Developer <img src="https://media.giphy.com/media/WUlp
 ### My Languages: 🕶️:
 <div align=center>
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naseerx&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flutternoor&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
 </div>
 
  
 ### Github Streak: ❤️‍🔥 
  <div align=center>
   
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=naseerx&theme=shades-of-purple)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=flutternoor&theme=shades-of-purple)](https://git.io/streak-stats)
   
 </div>
 
 
 ### Github Activity: 🎆
  
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=naseerx&theme=dracula&color=B994E6&bg_color=2B2D3D" />
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=flutternoor&theme=dracula&color=B994E6&bg_color=2B2D3D" />
 
 
 -----
-Credits: [Muhammad Naseer](https://github.com/naseerx)
+Credits: [Noor taj](https://github.com/flutternoor)
 
 Last Edited on: 30/09/2021
 
