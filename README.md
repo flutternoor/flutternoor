@@ -14,9 +14,10 @@ I am a Full Stack Flutter Developer <img src="https://media.giphy.com/media/WUlp
   </a> 
 
 ### How to reach me: 
+<a href="https://www.linkedin.com/in/noor-taj-khan/"><img src="https://img.shields.io/badge/noor taj khan-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
 <a href="mailto:noortaj1224@gmail.com">
 <img src="https://img.shields.io/badge/-noortaj1224@gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/noortaj_04/">   <img src="https://img.shields.io/badge/@noortaj_04_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/noor-taj-khan/"><img src="https://img.shields.io/badge/noor taj khan-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
+
 <!-- <a  href="https://naseerdev.000webhostapp.com/"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a> -->
 
 ### Current Status Quo:
